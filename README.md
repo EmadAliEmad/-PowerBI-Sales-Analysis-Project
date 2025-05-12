@@ -44,8 +44,6 @@ This project showcases the development of a comprehensive, single-page interacti
 
 **Data Model Schema:**
 ![Data Model Schema](The%20final%20schema%20of%20the%20data.png)
-*(Note: The space in the filename 'The final schema...' becomes '%20' in the link)*
-
 
 ## Potential Enhancements (Future Scope)
 
