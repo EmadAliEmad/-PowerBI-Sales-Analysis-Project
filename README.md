@@ -40,7 +40,7 @@ This project showcases the development of a comprehensive, single-page interacti
 ## Dashboard Previews
 
 **Main Dashboard Interface:**
-![Sales Performance & Forecast Analysis Dashboard](Sales_Analysis_Project.png)
+![Sales Performance & Forecast Analysis Dashboard](PowerBI-Sales-Analysis-Project.png)
 
 **Data Model Schema:**
 ![Data Model Schema](The%20final%20schema%20of%20the%20data.png)
