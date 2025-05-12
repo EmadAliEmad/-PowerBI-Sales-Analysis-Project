@@ -46,10 +46,6 @@ This project showcases the development of a comprehensive, single-page interacti
 ![Data Model Schema](The%20final%20schema%20of%20the%20data.png)
 *(Note: The space in the filename 'The final schema...' becomes '%20' in the link)*
 
-**Customer Interaction Example (Top Products Filter):**
-![Top Products for Selected Customer Interaction](PowerBI-Sales-Analysis-Project.png)
-*(This screenshot shows the visual used to display top products for a selected customer after interaction)*
-
 
 ## Potential Enhancements (Future Scope)
 
