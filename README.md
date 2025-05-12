@@ -6,11 +6,6 @@ This project demonstrates the development of a comprehensive, single-page intera
 
 *This project was developed based on a case study and utilizes sample data.*
 
-## Live Interaction (Optional - If Published to Web)
-*(If you published the report using Power BI Service's "Publish to web" feature, insert the public link or embedded code here. Otherwise, remove this section or state "Live interaction not available for this version".)*
-*Example:*
-*[Interact with the dashboard live here](Your_Publish_To_Web_Link)*
-
 ## Key Features & Analysis Implemented
 
 *   **Executive Summary KPIs:** Clear view of Total Sales, Sales 2008 vs. 2009.
